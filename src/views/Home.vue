@@ -1,6 +1,7 @@
 <template>
-  <div class="home">
-    <h1>Home page</h1>
+  <div class="my-2">
+
+    <h1>Ethers.js Example</h1>
 
     <button @click="onDeployClick">Deploy</button>
     <button @click="onMintClick">Get Erc Contract</button>
