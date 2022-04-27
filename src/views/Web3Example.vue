@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h1>Web3.js Example</h1>
     <button @click="onDeployClick">Deploy</button>
   </div>
 </template>

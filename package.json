@@ -1,5 +1,5 @@
 {
-  "name": "hardhatwebase",
+  "name": "NFTCollectionPOC",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -21,6 +21,7 @@
     "vue-router": "^4.0.0-0"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.1.1",
     "@openzeppelin/contracts": "^4.5.0",
     "@vue/cli-plugin-babel": "~4.5.17",
     "@vue/cli-plugin-router": "~4.5.17",
