@@ -1,11 +1,17 @@
 import { createRouter, createWebHashHistory } from 'vue-router'
 import EthersExample from '../views/EthersExample.vue'
+import RaribleExample from "@/views/RaribleExample";
 
 const routes = [
   {
     path: '/',
     name: 'ethers',
     component: EthersExample
+  },
+  {
+    path: '/rarible',
+    name: 'rarible',
+    component: RaribleExample
   },
   {
     path: '/web3',
